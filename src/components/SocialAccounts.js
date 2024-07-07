@@ -18,7 +18,7 @@ const SocialAccounts = () => {
               <FacebookIcon fontSize="large" />
             </IconButton>
           </Tooltip>
-          <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="link">
+          <a href="https://www.facebook.com/aakash.gurjar.165" target="_blank" rel="noopener noreferrer" className="link">
             Facebook
           </a>
         </div>
@@ -28,7 +28,7 @@ const SocialAccounts = () => {
               <InstagramIcon fontSize="large" />
             </IconButton>
           </Tooltip>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="link">
+          <a href="https://www.instagram.com/aakash_gurjar1_?igsh=MThqanAyY3d2dmhrbg==" target="_blank" rel="noopener noreferrer" className="link">
             Instagram
           </a>
         </div>
@@ -48,7 +48,7 @@ const SocialAccounts = () => {
               <CameraAltIcon fontSize="large" />
             </IconButton>
           </Tooltip>
-          <a href="https://snapchat.com" target="_blank" rel="noopener noreferrer" className="link">
+          <a href="https://snapchat.com/t/AgWrJuU5" target="_blank" rel="noopener noreferrer" className="link">
             Snapchat
           </a>
         </div>
