@@ -1,0 +1,35 @@
+/* src/components/NavBar.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.sticky-navbar {
+  font-family: 'Montserrat', sans-serif;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #f8f9fa;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand, .nav-link {
+  font-weight: 700;
+  color: #007BFF !important;
+}
+
+.nav-link:hover {
+  color: #0056b3 !important;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+@media (max-width: 600px) {
+  .navbar-nav {
+    text-align: center;
+  }
+
+  .nav-link {
+    padding: 10px;
+  }
+}

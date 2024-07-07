@@ -1,0 +1,35 @@
+/* src/components/Education.css */
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .education-item {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .education-item h2 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .education-item p {
+    margin: 5px 0;
+    font-size: 1em;
+  }
+  
+  @media (max-width: 600px) {
+    .education-item h2 {
+      font-size: 1em;
+    }
+    
+    .education-item p {
+      font-size: 0.9em;
+    }
+  }
+  
