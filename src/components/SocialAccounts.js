@@ -48,7 +48,7 @@ const SocialAccounts = () => {
               <CameraAltIcon fontSize="large" />
             </IconButton>
           </Tooltip>
-          <a href="https://snapchat.com/t/AgWrJuU5" target="_blank" rel="noopener noreferrer" className="link">
+          <a href="https://www.snapchat.com/add/akshgurjar70147?share_id=zzyo2YBQYAo&locale=en-US" target="_blank" rel="noopener noreferrer" className="link">
             Snapchat
           </a>
         </div>
